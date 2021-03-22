@@ -6,7 +6,9 @@ import { WorkList } from './WorkList';
 function Work() {
 	return (
 		<div className='mx-auto m-5' style={{ textAlign: 'center' }}>
-			<h3 style={{ fontSize: '80px', color: 'blue' }}>Work.</h3>
+			<h3 style={{ fontSize: '80px', color: 'blue' }} className='work-title'>
+				Work.
+			</h3>
 
 			<div>
 				{WorkList.map((list) => {

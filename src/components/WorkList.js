@@ -34,7 +34,8 @@ export const WorkList = [
 	},
 	{
 		name: 'Kwesi Chatbot',
-		about: 'A website for a local pub',
+		about:
+			'A task oriented dialog agent for an abstract bank that provides banking information and directs the user in accessing financial services',
 		image: kwesi,
 		site: 'https://garrisonpub.netlify.app',
 		github: 'https://innocentanyaele.github.io/chatbot/',
