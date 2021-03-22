@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+.work-header {
+    font-family: 'Questrial', sans-serif;
+    font-weight: bolder;
+}
+
+/* @media screen and (min-width: 600px) {
+    .about-message {
+        width: '20px';
+    }
+  } */
+
+ /* @media only screen and (min-width: 600px) {
+    .about-message{
+        width: '20px';
+    }
+}  */
