@@ -22,11 +22,11 @@ function Header() {
 				/>
 
 				<div>
-					<span style={{ fontSize: '25px', color: 'blue' }}>
+					<span className='name' style={{ fontSize: '25px', color: 'blue' }}>
 						Innocent Anyaele
 					</span>
 					<br></br>
-					<span style={{ fontSize: '15px', color: 'blue' }}>
+					<span className='field' style={{ fontSize: '15px', color: 'blue' }}>
 						Developer || Data Scientist
 					</span>
 					<br></br>

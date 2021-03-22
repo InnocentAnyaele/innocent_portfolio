@@ -1,9 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 .work-header {
     font-family: 'Questrial', sans-serif;
     font-weight: bolder;
 }
+
+.name{
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.field {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.about-message {
+    font-family: 'Noto Sans', sans-serif;
+}
+
 
 /* @media screen and (min-width: 600px) {
     .about-message {
