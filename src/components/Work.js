@@ -5,7 +5,7 @@ import { WorkList } from './WorkList';
 
 function Work() {
 	return (
-		<div className='mx-auto m-5' style={{ textAlign: 'center' }}>
+		<div className='mx-auto' style={{ textAlign: 'center' }}>
 			<h3 style={{ fontSize: '80px', color: 'blue' }} className='work-title'>
 				Work.
 			</h3>
