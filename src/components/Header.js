@@ -5,7 +5,7 @@ import './Main.css';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import developer from '../img/developer1.svg';
-import cv from '../cv/CV.docx';
+// import cv from '../cv/CV.docx';
 import profile from '../img/profile1.jpg';
 
 function Header() {
@@ -33,7 +33,7 @@ function Header() {
 					<br></br>
 					<br></br>
 
-					<a href={cv} download={cv}>
+					<a href="https://drive.google.com/file/d/1Qi0pGmDXS_wC9E9TB5PdbkYuaI0wf4Qq/view?usp=sharing" download="https://drive.google.com/file/d/1Qi0pGmDXS_wC9E9TB5PdbkYuaI0wf4Qq/view?usp=sharing">
 						<Button className='m-3' color='primary'>
 							Download CV
 						</Button>
