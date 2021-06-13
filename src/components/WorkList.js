@@ -37,12 +37,11 @@ export const WorkList = [
 		about:
 			'A task oriented dialog agent for an abstract bank that provides banking information and directs the user in accessing financial services',
 		image: kwesi,
-		site: 'https://garrisonpub.netlify.app',
-		github: 'https://innocentanyaele.github.io/chatbot/',
+		site: 'https://innocentanyaele.github.io/chatbot/',
+		github: 'https://github.com/InnocentAnyaele/chatbot',
 	},
 	{
-		name:
-			'SRC Management system for the DataLink institute of Business and Technology ',
+		name: 'SRC Management system for the DataLink institute of Business and Technology ',
 		about:
 			'A SRC management platform for datalink institute of business and technology that automates all the responsibilities of the student council including functions like, gallery, seminar, handouts, library, voting, e-commerce, messaging, news, student information, halls and clubs and many more.',
 		image: src_old,
@@ -67,8 +66,7 @@ export const WorkList = [
 	},
 
 	{
-		name:
-			'SRC Management system for the Accra University College of Communications ',
+		name: 'SRC Management system for the Accra University College of Communications ',
 		about:
 			'A SRC management platform for the Accra University College of Communications that automates all the responsibilities of the student council including functions like, gallery, seminar, handouts, library, voting, e-commerce, messaging, news, student information, halls and clubs and many more..',
 		image: src_aucc1,
