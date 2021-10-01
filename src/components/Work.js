@@ -14,9 +14,9 @@ function Work() {
 				{WorkList.map((list) => {
 					return (
 						<div style={{ marginBottom: '50px' }}>
-							<Card style={{ width: '50rem' }} className='mx-auto'>
+							<Card style={{ width: '50rem' }} className='mx-auto shadow-lg bg-white rounded'>
 								<Card.Img variant='top' src={list.image} />
-								<Card.Body>
+								<Card.Body className='border-top'>
 									<Card.Title>
 										<b style={{ color: 'blue' }}>{list.name}</b>
 									</Card.Title>
