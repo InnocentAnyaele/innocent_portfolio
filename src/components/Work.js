@@ -5,9 +5,9 @@ import { WorkList } from './WorkList';
 
 function Work() {
 	return (
-		<div className='mx-auto' style={{ textAlign: 'center' }}>
-			<h3 style={{ fontSize: '80px', color: 'blue' }} className='work-title'>
-				Work.
+		<div className='mx-auto' style={{ textAlign: 'center', paddingTop: '20px' }}>
+			<h3 style={{ fontSize: '60px', color: 'blue' }} className='work-title'>
+				Work & Projects
 			</h3>
 
 			<div>

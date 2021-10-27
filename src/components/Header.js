@@ -33,7 +33,7 @@ function Header() {
 					<br></br>
 					<br></br>
 					<span className='field' style={{ fontSize: '15px', color: 'blue' }}>
-						innocentanyaele2000@gmail.com <br></br> +233557187667
+						<i>innocentanyaele2000@gmail.com <br></br> +233557187667 </i>
 						</span>
 						<br></br>
 					<ul
@@ -68,7 +68,7 @@ function Header() {
 						style={{ height: 'auto', padding: '50px' }}>
 						<article className='about-message message is-link mx-auto p-3 img-fluid'>
 							<div className='message-body text-center'>
-							“Man is condemned to be free” – Jean-Paul Sartre
+							“Man is condemned to be free” – <i>Jean-Paul Sartre</i>
 							</div>
 						</article>
 					</div>
