@@ -28,7 +28,7 @@ function Header() {
 					</span>
 					<br></br>
 					<span className='field' style={{ fontSize: '17px', color: 'blue' }}>
-						Developer || Data Scientist
+						Software Engineer || Data Scientist
 					</span>
 					<br></br>
 					<br></br>
