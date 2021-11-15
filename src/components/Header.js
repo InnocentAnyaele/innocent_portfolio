@@ -8,6 +8,7 @@ import developer from '../img/developer1.svg';
 // import cv from '../cv/CV.docx';
 import profile from '../img/profile1.jpg';
 
+
 function Header() {
 	return (
 		<div
