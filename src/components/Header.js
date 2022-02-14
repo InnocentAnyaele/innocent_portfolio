@@ -8,14 +8,13 @@ import developer from '../img/developer1.svg';
 // import cv from '../cv/CV.docx';
 import profile from '../img/profile1.jpg';
 
-
 function Header() {
 	return (
 		<div
 			style={{
 				textAlign: 'center',
 			}}>
-			<div style={{ height: '100vh', padding: '50px' }}>
+			<div style={{ height: 'auto', padding: '50px' }}>
 				<img
 					className='img-fluid mx-auto'
 					alt='developer'
@@ -34,24 +33,26 @@ function Header() {
 					<br></br>
 					<br></br>
 					<span className='field' style={{ fontSize: '15px', color: 'blue' }}>
-						<i>innocentanyaele2000@gmail.com <br></br> +233557187667 </i>
-						</span>
-						<br></br>
+						<i>
+							innocentanyaele2000@gmail.com <br></br> +233557187667{' '}
+						</i>
+					</span>
+					<br></br>
 					<ul
-									style={{ listStyle: 'none', display: 'inline-flex' }}
-									className='m-3'>
-									<li>
-										<a href='https://github.com/InnocentAnyaele'>
-											<GitHubIcon style={{ color: 'blue' }} />
-										</a>
-									</li>{' '}
-									<br></br>
-									<li>
-										<a href='https://gh.linkedin.com/in/innocent-anyaele-398825165'>
-											<LinkedInIcon style={{ color: 'blue' }} />
-										</a>
-									</li>
-								</ul>
+						style={{ listStyle: 'none', display: 'inline-flex' }}
+						className='m-3'>
+						<li>
+							<a href='https://github.com/InnocentAnyaele'>
+								<GitHubIcon style={{ color: 'blue' }} />
+							</a>
+						</li>{' '}
+						<br></br>
+						<li>
+							<a href='https://gh.linkedin.com/in/innocent-anyaele-398825165'>
+								<LinkedInIcon style={{ color: 'blue' }} />
+							</a>
+						</li>
+					</ul>
 					<br></br>
 
 					<a
@@ -65,25 +66,25 @@ function Header() {
 			</div>
 
 			<div
-						className='container-fluid'
-						style={{ height: 'auto', padding: '50px' }}>
-						<article className='about-message message is-link mx-auto p-3 img-fluid'>
-							<div className='message-body text-center'>
-							“Man is condemned to be free” – <i>Jean-Paul Sartre</i>
-							</div>
-						</article>
+				className='container-fluid'
+				style={{ height: 'auto', padding: '50px' }}>
+				<article className='about-message message is-link mx-auto p-3 img-fluid'>
+					<div className='message-body text-center'>
+						“Man is condemned to be free” – <i>Jean-Paul Sartre</i>
 					</div>
+				</article>
+			</div>
 
-					<div className='p-5 d-flex justify-content-center align-items-center w-100'>
-						<div className='w-100' style={{maxWidth: '700px'}}>
-						<img
+			<div className='p-5 d-flex justify-content-center align-items-center w-100'>
+				<div className='w-100' style={{ maxWidth: '700px' }}>
+					<img
 						className='img-fluid w-100 h-100'
 						src={profile}
 						alt='profile'
-						style={{borderRadius: '50%' }}
+						style={{ borderRadius: '50%' }}
 					/>
-						</div>
-					</div>
+				</div>
+			</div>
 
 			{/* <div
 				style={{
