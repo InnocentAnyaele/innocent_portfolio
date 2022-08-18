@@ -8,6 +8,7 @@ import dlibt_form1 from '../img/dlibt_form1.png';
 import maame from '../img/maame.png';
 import todo from '../img/todo.png';
 import skrambull from '../img/skrambull.png';
+import gopoll from '../img/gopoll.png
 
 export const WorkList = [
 	{
@@ -48,6 +49,14 @@ export const WorkList = [
 		image: skrambull,
 		site: 'https://innocentanyaele.github.io/skrambull/',
 		github: 'https://github.com/InnocentAnyaele/skrambull',
+	},
+	{
+		name: 'GoPoll',
+		about:
+			'A simple application that lets you create polls, share link with friends to vote and view results.',
+		image: gopoll,
+		site: 'https://gopoll.herokuapp.com/'
+		github: 'https://github.com/InnocentAnyaele/goPollClient',
 	},
 	{
 		name: 'SRC Management system for the DataLink institute of Business and Technology ',
