@@ -56,8 +56,8 @@ function Header() {
 					<br></br>
 
 					<a
-						href='https://drive.google.com/file/d/1qrXTz7wM4XzoFb0skedZL3ZvvmKdWg-G/view?usp=sharing'
-						download='https://drive.google.com/file/d/1qrXTz7wM4XzoFb0skedZL3ZvvmKdWg-G/view?usp=sharing'>
+						href='https://drive.google.com/file/d/10iOOZURELtjoRC39w7yt2-rUgPv7PyeA/view?usp=sharing'
+						download='https://drive.google.com/file/d/10iOOZURELtjoRC39w7yt2-rUgPv7PyeA/view?usp=sharing'>
 						<Button className='m-3' color='primary'>
 							Get CV
 						</Button>
