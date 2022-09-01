@@ -8,7 +8,7 @@ import dlibt_form1 from '../img/dlibt_form1.png';
 import maame from '../img/maame.png';
 import todo from '../img/todo.png';
 import skrambull from '../img/skrambull.png';
-import gopoll from '../img/gopoll.png
+import gopoll from '../img/gopoll.png'
 
 export const WorkList = [
 	{
@@ -55,7 +55,7 @@ export const WorkList = [
 		about:
 			'A simple application that lets you create polls, share link with friends to vote and view results.',
 		image: gopoll,
-		site: 'https://gopoll.herokuapp.com/'
+		site: 'https://gopoll.herokuapp.com/',
 		github: 'https://github.com/InnocentAnyaele/goPollClient',
 	},
 	{
